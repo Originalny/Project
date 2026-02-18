@@ -1,0 +1,446 @@
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/appsettings.Development.json
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/appsettings.json
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/ProductCrud.Web.staticwebassets.runtime.json
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/ProductCrud.Web.staticwebassets.endpoints.json
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/ProductCrud.Web
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/ProductCrud.Web.deps.json
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/ProductCrud.Web.runtimeconfig.json
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/ProductCrud.Web.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/ProductCrud.Web.pdb
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/Humanizer.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/Microsoft.Build.Framework.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/Microsoft.CodeAnalysis.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/Microsoft.Data.Sqlite.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/Microsoft.Extensions.DependencyModel.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/Microsoft.VisualStudio.SolutionPersistence.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/Mono.TextTemplating.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/Newtonsoft.Json.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/Serilog.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/Serilog.AspNetCore.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/Serilog.Extensions.Hosting.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/Serilog.Extensions.Logging.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/Serilog.Formatting.Compact.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/Serilog.Settings.Configuration.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/Serilog.Sinks.Console.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/Serilog.Sinks.Debug.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/Serilog.Sinks.File.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/SQLitePCLRaw.batteries_v2.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/SQLitePCLRaw.core.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/System.CodeDom.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/System.Composition.AttributedModel.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/System.Composition.Convention.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/System.Composition.Hosting.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/System.Composition.Runtime.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/System.Composition.TypedParts.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/runtimes/browser-wasm/nativeassets/net9.0/e_sqlite3.a
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/runtimes/linux-arm/native/libe_sqlite3.so
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/runtimes/linux-armel/native/libe_sqlite3.so
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/runtimes/linux-musl-riscv64/native/libe_sqlite3.so
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/runtimes/linux-musl-s390x/native/libe_sqlite3.so
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/runtimes/linux-riscv64/native/libe_sqlite3.so
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/runtimes/linux-x64/native/libe_sqlite3.so
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/runtimes/linux-x86/native/libe_sqlite3.so
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/runtimes/win-arm/native/e_sqlite3.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/runtimes/win-arm64/native/e_sqlite3.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/runtimes/win-x64/native/e_sqlite3.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/bin/Debug/net10.0/runtimes/win-x86/native/e_sqlite3.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/ProductCrud.Web.csproj.AssemblyReference.cache
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/rpswa.dswa.cache.json
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/ProductCrud.Web.GeneratedMSBuildEditorConfig.editorconfig
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/ProductCrud.Web.AssemblyInfoInputs.cache
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/ProductCrud.Web.AssemblyInfo.cs
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/ProductCrud.Web.csproj.CoreCompileInputs.cache
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/ProductCrud.Web.MvcApplicationPartsAssemblyInfo.cache
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/ProductCrud.Web.RazorAssemblyInfo.cache
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/ProductCrud.Web.RazorAssemblyInfo.cs
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/scopedcss/bundle/ProductCrud.Web.styles.css
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/scopedcss/projectbundle/ProductCrud.Web.bundle.scp.css
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/0mpyz0fth3-{0}-lugek5hnai-lugek5hnai.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/c0vcnbei4x-{0}-61n19gt1b8-61n19gt1b8.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/owgnwjc0d9-{0}-fr7q2aak1r-fr7q2aak1r.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/cv1255vr7r-{0}-bqjiyaj88i-bqjiyaj88i.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/qltvlgy8ds-{0}-c2jlpeoesf-c2jlpeoesf.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/nt99himct0-{0}-erw9l3u2r3-erw9l3u2r3.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/1863d1be5f-{0}-aexeepp0ev-aexeepp0ev.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/f527yrboau-{0}-d7shbmvgxk-d7shbmvgxk.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/ypcarb7g69-{0}-ausgxo2sd3-ausgxo2sd3.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/9szdjomen5-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/4j249xdndr-{0}-cosvhxvwiu-cosvhxvwiu.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/w9jh3vrlb5-{0}-ub07r2b239-ub07r2b239.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/8gx9gom34j-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/t0b0guzlwb-{0}-b7pk76d08c-b7pk76d08c.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/xueds9pfiz-{0}-fsbi9cje9m-fsbi9cje9m.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/5gfnmt0v3s-{0}-rzd6atqjts-rzd6atqjts.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/dqp5s6q20i-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/vd4qiyc8zn-{0}-dxx9fxp4il-dxx9fxp4il.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/qq1i5feu70-{0}-jd9uben2k1-jd9uben2k1.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/d1kgmk74p5-{0}-khv3u5hwcm-khv3u5hwcm.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/k1bg2bue4f-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/wch3qc7d3u-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/cuxg1qiso0-{0}-c2oey78nd0-c2oey78nd0.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/5ymbu9uzkv-{0}-tdbxkamptv-tdbxkamptv.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/qjz3bvqm1b-{0}-j5mq2jizvt-j5mq2jizvt.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/iyeanrjoql-{0}-06098lyss8-06098lyss8.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/ra7txmwszh-{0}-nvvlpmu67g-nvvlpmu67g.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/kghcjm8lle-{0}-s35ty4nyc5-s35ty4nyc5.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/6m76mcdd4c-{0}-pj5nd1wqec-pj5nd1wqec.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/un2dwsb412-{0}-46ein0sx1k-46ein0sx1k.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/8i5a43c5vy-{0}-v0zj4ognzu-v0zj4ognzu.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/uve47y86d7-{0}-37tfw0ft22-37tfw0ft22.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/5um6nsqauc-{0}-hrwsygsryq-hrwsygsryq.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/udfuvr78x4-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/g0t2fcn2sv-{0}-ft3s53vfgj-ft3s53vfgj.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/qmkalfir8a-{0}-6cfz1n2cew-6cfz1n2cew.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/s3tzeya71n-{0}-6pdc2jztkx-6pdc2jztkx.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/j0fhkqeqj6-{0}-493y06b0oq-493y06b0oq.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/p7r9ts8y6z-{0}-iovd86k7lj-iovd86k7lj.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/dcrc6c6jq4-{0}-vr1egmr9el-vr1egmr9el.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/zwlrhl4u9x-{0}-kbrnm935zg-kbrnm935zg.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/mb8vdg9rv2-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/c7gvkobsdy-{0}-y7v9cxd14o-y7v9cxd14o.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/rm23ey6w03-{0}-notf2xhcfb-notf2xhcfb.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/nluowic1bv-{0}-h1s4sie4z3-h1s4sie4z3.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/c77dvwkq83-{0}-63fj8s7r0e-63fj8s7r0e.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/l3dzlqy9pt-{0}-0j3bgjxly4-0j3bgjxly4.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/08j6pu1dys-{0}-47otxtyo56-47otxtyo56.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/ldvqkkfxt0-{0}-4v8eqarkd7-4v8eqarkd7.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/umx1zwcb3n-{0}-l3n5xuwxn8-l3n5xuwxn8.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/0n4kgm9omc-{0}-ilo7uva0vt-ilo7uva0vt.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/lbvw2x9c0k-{0}-qlccset4i1-qlccset4i1.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/0w8sxto3fk-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/c21kqetesb-{0}-ag7o75518u-ag7o75518u.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/w1tzbn7hwd-{0}-xzw0cte36n-xzw0cte36n.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/kxmgk0dwck-{0}-0i3buxo5is-0i3buxo5is.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/9x8rbegz05-{0}-o1o13a6vjx-o1o13a6vjx.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/hxt6futwrg-{0}-ttgo8qnofa-ttgo8qnofa.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/9wr6ljdsan-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/5edlro44yj-{0}-muycvpuwrr-muycvpuwrr.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/cnvb89632g-{0}-87fc7y1x7t-87fc7y1x7t.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/ezk6pk36mb-{0}-jfsiqqwiad-jfsiqqwiad.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/x7s0do5avk-{0}-lrk2uaut3j-lrk2uaut3j.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/compressed/yhbkubq5r5-{0}-lrk2uaut3j-lrk2uaut3j.gz
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/staticwebassets.build.json
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/staticwebassets.build.json.cache
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/staticwebassets.development.json
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/swae.build.ex.cache
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/ProductC.675BF1CD.Up2Date
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/ProductCrud.Web.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/refint/ProductCrud.Web.dll
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/ProductCrud.Web.pdb
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/ProductCrud.Web.genruntimeconfig.cache
+/home/debian/Рабочий стол/pok/ProductCrud.Web/obj/Debug/net10.0/ref/ProductCrud.Web.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\appsettings.json
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\ProductCrud.Web.staticwebassets.runtime.json
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\ProductCrud.Web.staticwebassets.endpoints.json
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\ProductCrud.Web.exe
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\ProductCrud.Web.deps.json
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\ProductCrud.Web.runtimeconfig.json
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\ProductCrud.Web.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\ProductCrud.Web.pdb
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\Humanizer.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\Microsoft.Data.Sqlite.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\Serilog.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\Serilog.AspNetCore.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\Serilog.Extensions.Hosting.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\Serilog.Extensions.Logging.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\Serilog.Formatting.Compact.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\Serilog.Settings.Configuration.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\Serilog.Sinks.Console.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\Serilog.Sinks.Debug.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\Serilog.Sinks.File.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\SQLitePCLRaw.core.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\runtimes\linux-musl-riscv64\native\libe_sqlite3.so
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\runtimes\linux-riscv64\native\libe_sqlite3.so
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\bin\Debug\net10.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\ProductCrud.Web.csproj.AssemblyReference.cache
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\ProductCrud.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\ProductCrud.Web.AssemblyInfoInputs.cache
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\ProductCrud.Web.AssemblyInfo.cs
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\ProductCrud.Web.csproj.CoreCompileInputs.cache
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\ProductCrud.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\ProductCrud.Web.RazorAssemblyInfo.cache
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\ProductCrud.Web.RazorAssemblyInfo.cs
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\scopedcss\bundle\ProductCrud.Web.styles.css
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\scopedcss\projectbundle\ProductCrud.Web.bundle.scp.css
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\0mpyz0fth3-{0}-lugek5hnai-lugek5hnai.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\c0vcnbei4x-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\owgnwjc0d9-{0}-fr7q2aak1r-fr7q2aak1r.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\cv1255vr7r-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\qltvlgy8ds-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\nt99himct0-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\1863d1be5f-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\f527yrboau-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\ypcarb7g69-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\9szdjomen5-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\4j249xdndr-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\w9jh3vrlb5-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\8gx9gom34j-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\t0b0guzlwb-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\xueds9pfiz-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\5gfnmt0v3s-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\dqp5s6q20i-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\vd4qiyc8zn-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\qq1i5feu70-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\d1kgmk74p5-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\k1bg2bue4f-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\wch3qc7d3u-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\cuxg1qiso0-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\5ymbu9uzkv-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\qjz3bvqm1b-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\iyeanrjoql-{0}-06098lyss8-06098lyss8.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\ra7txmwszh-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\kghcjm8lle-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\6m76mcdd4c-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\un2dwsb412-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\8i5a43c5vy-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\uve47y86d7-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\5um6nsqauc-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\udfuvr78x4-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\g0t2fcn2sv-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\qmkalfir8a-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\s3tzeya71n-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\j0fhkqeqj6-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\p7r9ts8y6z-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\dcrc6c6jq4-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\zwlrhl4u9x-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\mb8vdg9rv2-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\c7gvkobsdy-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\rm23ey6w03-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\nluowic1bv-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\c77dvwkq83-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\l3dzlqy9pt-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\08j6pu1dys-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\ldvqkkfxt0-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\umx1zwcb3n-{0}-l3n5xuwxn8-l3n5xuwxn8.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\0n4kgm9omc-{0}-ilo7uva0vt-ilo7uva0vt.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\lbvw2x9c0k-{0}-qlccset4i1-qlccset4i1.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\0w8sxto3fk-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\c21kqetesb-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\w1tzbn7hwd-{0}-xzw0cte36n-xzw0cte36n.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\kxmgk0dwck-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\9x8rbegz05-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\hxt6futwrg-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\9wr6ljdsan-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\5edlro44yj-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\cnvb89632g-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\ezk6pk36mb-{0}-jfsiqqwiad-jfsiqqwiad.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\x7s0do5avk-{0}-vcj5yvmdjk-vcj5yvmdjk.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\compressed\yhbkubq5r5-{0}-vcj5yvmdjk-vcj5yvmdjk.gz
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\ProductC.675BF1CD.Up2Date
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\ProductCrud.Web.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\refint\ProductCrud.Web.dll
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\ProductCrud.Web.pdb
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\ProductCrud.Web.genruntimeconfig.cache
+C:\Users\Soma\Desktop\practice\ProductCrud.Web\obj\Debug\net10.0\ref\ProductCrud.Web.dll

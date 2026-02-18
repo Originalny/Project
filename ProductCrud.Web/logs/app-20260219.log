@@ -1,0 +1,12 @@
+2026-02-19 00:47:03.986 +01:00 [INF] Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "type" = 'table' AND "rootpage" IS NOT NULL;
+2026-02-19 00:47:04.134 +01:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1
+    FROM "Products" AS "p")
+2026-02-19 00:47:04.186 +01:00 [INF] Application started
+2026-02-19 00:47:04.197 +01:00 [INF] User profile is available. Using 'C:\Users\Soma\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-02-19 00:47:04.232 +01:00 [INF] Now listening on: http://localhost:5014
+2026-02-19 00:47:04.234 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-02-19 00:47:04.235 +01:00 [INF] Hosting environment: Development
+2026-02-19 00:47:04.235 +01:00 [INF] Content root path: C:\Users\Soma\Desktop\practice\ProductCrud.Web

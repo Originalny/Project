@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ProductCrud.Tests/ProductCrud.Tests.csproj" />
+  <Project Path="ProductCrud.Web/ProductCrud.Web.csproj" />
+</Solution>
